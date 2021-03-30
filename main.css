@@ -1,0 +1,50 @@
+.head {
+    width: 65%;
+    background-color: #5e6668;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #c7cedf;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.meet {
+    background-color: #5e6668;
+    height: 700px;
+    width: 65%;
+    margin:  0 auto;
+    border-radius: 10px;
+}
+.meet h2 {
+    color: #f6fafb;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.meet p {
+    color: #f6fafb;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 10px;
+}
+.bkg {
+    background-color: #252b31;
+    width: 100%;
+    height: 100%;
+}
+* {
+    margin:0;
+    padding:0;
+    }
+.leftmenu {
+    background-color: #d49c6b;
+    width: 210px;
+    position: fixed;
+    z-index: 1;
+    top: 60px;
+    left: 10px;
+    overflow-x: hidden;
+    padding: 8px 0;
+    padding-left: 10px;
+    
+}
